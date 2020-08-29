@@ -1,0 +1,18 @@
+Habitacion Standard
+https://hotels.cloudbeds.com/reservation/QzhIsY#room_type=STD&base_rates_only=1
+Habitacion Pacifica
+https://hotels.cloudbeds.com/reservation/QzhIsY#room_type=PAC&base_rates_only=1
+Habitacion Ejecutiva
+https://hotels.cloudbeds.com/reservation/QzhIsY#room_type=EXE&base_rates_only=1
+Habitacion Doble
+https://hotels.cloudbeds.com/reservation/QzhIsY#room_type=DD&base_rates_only=1
+Habitacion Suite
+https://hotels.cloudbeds.com/reservation/QzhIsY#room_type=SJI&base_rates_only=1
+Habitacion Royal
+https://hotels.cloudbeds.com/reservation/QzhIsY#room_type=ROY&base_rates_only=1
+Habitacion King
+https://hotels.cloudbeds.com/reservation/QzhIsY#room_type=KIN&base_rates_only=1
+Habitacion Condominio
+https://hotels.cloudbeds.com/reservation/QzhIsY#room_type=CON&base_rates_only=1
+Habitacion Discapacitados
+https://hotels.cloudbeds.com/reservation/QzhIsY#room_type=DIS&base_rates_only=1
