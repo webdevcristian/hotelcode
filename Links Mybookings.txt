@@ -16,3 +16,4 @@ Habitacion Condominio
 https://hotels.cloudbeds.com/reservation/QzhIsY#room_type=CON&base_rates_only=1
 Habitacion Discapacitados
 https://hotels.cloudbeds.com/reservation/QzhIsY#room_type=DIS&base_rates_only=1
+<!-- Esta es uan prueba de configuracion -->
